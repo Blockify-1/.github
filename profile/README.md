@@ -1,5 +1,5 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/194742418-20b63370-e64c-46b5-b1a5-7fd2970b7ba6.png" height="35" width="35" align-items="center" justify-content="center" /> Blockify
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+E-commerce stores built using blockchain technology with support to the Creative E-commerce Co. platform. Web 2.0 entrepreneurship brought to the Web 3.0 standards.
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
