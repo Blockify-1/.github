@@ -3,12 +3,12 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
-🛒 Frustrated? Can't seem to buy before the blast-off? 
+🛒 Bridging the gap between Web 2.0 shopping and Web 3.0.
 
-🛍️ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🛍️ Use pre-built stores and integrations between your favorite platforms.
 
-🥳 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🥳 Celebrate your customers using custom marketing automations through the blockchain.
 
-🫵 Be the FIRST to get the latest and the greatest.
+🫵 Get customers to notice you all across the metaverse.
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
