@@ -11,4 +11,4 @@ E-commerce stores built using blockchain technology with support to the Creative
 
 🫵 Get customers to notice you all across the metaverse.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
